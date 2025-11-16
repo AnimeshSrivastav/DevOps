@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
        - name: "Echo Current time"
-         run: "Echo ${date}"
+         run: "echo ${date}"
 
